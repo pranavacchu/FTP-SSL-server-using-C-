@@ -2,7 +2,7 @@
 
 # FTP Server using OpenSSL
 
-This project is a simple FTP server implemented in C, utilizing OpenSSL for secure communication. It allows clients to list files, download files from the server, and upload files to the server securely.
+This project is a simple FTP server implemented in C, utilizing OpenSSL for secure communication. It allows clients to list files, download files from the server, and upload files to the server securely.This code also has terminal art for better UI.
 
 ## Features
 
@@ -11,6 +11,7 @@ This project is a simple FTP server implemented in C, utilizing OpenSSL for secu
 - List files available on the server.
 - Download files from the server.
 - Upload files to the server.
+- Terminal Art
 
 ## Prerequisites
 
@@ -65,9 +66,6 @@ This project is a simple FTP server implemented in C, utilizing OpenSSL for secu
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 
